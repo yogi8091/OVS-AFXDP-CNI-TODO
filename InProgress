@@ -1,0 +1,16 @@
+Working with OVS and AF_XDP
+-------------------------------------------------------------------------------------------------------------
+https://osinstom.github.io/en/tutorial/ovs-afxdp-installation/#running-ovs_afxdp
+https://github.com/Orange-OpenSource/p4rt-ovs/blob/master/Documentation/intro/install/afxdp.rst
+
+Testing
+--------------------------------------------------------------------------------------------------------------
+https://ostconf.com/system/attachments/files/000/001/705/original/Marimov.pdf?1570438753
+
+IPTABLES 
+---------------------------------------------------------------------------------------------------------------
+https://thenewstack.io/ebpf-put-the-kubernetes-data-plane-in-the-kernel/
+
+Simple program for XDP and eBPF
+----------------------------------------------------------------------------------------------------------------
+https://thenewstack.io/primer-how-xdp-and-ebpf-speed-network-traffic-via-the-linux-kernel/
